@@ -6,7 +6,7 @@ Then, in terminal (recommended to work in an IDE like vscode):
 
 pip install -r requirements.txt
 
-(if you don't have pip, you need to install python. Then, recommended: do this in a virtual python environment (venv) - search it up if you don't know how.)
+(if your terminal tells you you don't have pip, you need to install python. Then, recommended: do this in a virtual python environment (venv) - search it up if you don't know how.)
 
 
 Run training with a Pygame window:
