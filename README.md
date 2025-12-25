@@ -20,3 +20,6 @@ python eval_neat_flappy.py --config neat-config.cfg --gens 20 --render
 To visualize stats:
 
 python visualize.py stats.pkl
+
+
+Feel free to play around in the config file to adjust the genetic algorithm!
