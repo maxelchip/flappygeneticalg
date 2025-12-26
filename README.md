@@ -1,4 +1,4 @@
-##Instructions to run:##
+## Instructions to run:
 
 Clone repo to your computer (github tells you how, but you can also search it up if you don't know)
 
