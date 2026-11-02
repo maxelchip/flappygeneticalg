@@ -23,3 +23,10 @@ python visualize.py stats.pkl
 
 
 Feel free to play around in the config file to adjust the genetic algorithm!
+
+To play the game yourself:
+
+python play_flappy.py
+
+Press Space, Up, or click the game window to flap. After a collision, press
+Space or Up to restart.
